@@ -49,7 +49,4 @@ to-do-list/
 
 ---
 
-## ✅ Project Completed as Part of:
-**To-Do List Web Application - Week 2 Project**
 
----
