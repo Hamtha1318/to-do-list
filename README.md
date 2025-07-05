@@ -13,7 +13,8 @@ It allows users to:
 - Mark tasks as completed  
 - Delete tasks 
 - Add priority tags (Low/Medium/High) 
-- Tasks remain saved even after refreshing the page using `localStorage`
+- Tasks remain saved even after refreshing the page using localStorage
+- Modern UI with icons and vibrant colors
 
 ---
 
@@ -27,7 +28,7 @@ It allows users to:
 ---
 
 ## 🚀 How to Run
-1. Open the `index.html` file in your browser  
+1. Open the index.html file in your browser  
 2. (Recommended) Use **Live Server** in VS Code for real-time preview  
 3. Add, complete, or delete tasks easily  
 4. Your tasks stay saved even after page refresh  
@@ -48,5 +49,3 @@ to-do-list/
 - **VS Code** for development  
 
 ---
-
-
