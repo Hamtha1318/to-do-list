@@ -16,7 +16,7 @@ function addTask() {
     const prio = priority.value;
 
     if (taskText === "") {
-        alert("Please enter a task!");
+        alert("🚫 Please enter a task!");
         return;
     }
 
